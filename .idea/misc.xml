@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (slicesim)" project-jdk-type="Python SDK" />
+=======
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (slicesim) (2)" project-jdk-type="Python SDK" />
+>>>>>>> 60f32fbdfae3de1645869fb4c003e43dcc49bd35
 </project>
