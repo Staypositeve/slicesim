@@ -1,4 +1,4 @@
-class Stats:
+uujclass Stats:
     def __init__(self, env, base_stations, clients, area):
         self.env = env
         self.base_stations = base_stations
